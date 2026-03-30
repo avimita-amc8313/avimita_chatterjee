@@ -15,7 +15,7 @@ My journey into QEC began with a deep curiosity about quantum technologies and a
 Explore the key sections of my academic portfolio:
 * <i class="fas fa-newspaper"></i> [News](https://avimita-amc8313.github.io/avimita_chatterjee/news/) – Updates and announcements on research, events, and milestones
 * <i class="fas fa-book-open"></i> [Publications](https://avimita-amc8313.github.io/avimita_chatterjee/publications/) – Peer-reviewed papers, manuscripts, and selected preprints
-* <i class="fas fa-microphone"></i> [Talks](https://avimita-amc8313.github.io/avimita_chatterjee/talks/) – Presentations and invited talks at conferences, workshops, and seminars
+* <i class="fas fa-video"></i> [Media](https://avimita-amc8313.github.io/avimita_chatterjee/media/) - Recordings of interviews, podcasts, and public talks
 * <i class="fas fa-chalkboard-teacher"></i> [Teaching](https://avimita-amc8313.github.io/avimita_chatterjee/teaching/) – Courses and academic mentoring
 
 Research in Quantum Error Correction
