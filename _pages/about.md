@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+My name is Avimita Chatterjee, and I am an incoming Postdoctoral Scholar in the NERSC Division at Lawrence Berkeley National Laboratory (Berkeley Lab), starting in May 2026. This position is funded through the Department of Energy Quantum Systems Accelerator. I am currently serving as a Visiting Assistant Professor in the Computer Science Department at the University of West Florida.
 
-My name is Avimita Chatterjee, and I am a Visiting Assistant Professor in the Computer Science Department at the University of West Florida. I recently completed my Ph.D. in Computer Science and Engineering at The Pennsylvania State University. My doctoral research focused on Quantum Computing, with a particular emphasis on Quantum Error Correction (QEC). Under the guidance of Professor Swaroop Ghosh, my dissertation, titled _“Spatiotemporal Optimization and Analysis of Resource Utilization in Quantum Error Correction”_,explored strategies for building more resilient and scalable quantum systems. [View Dissertation Defense Slides (PPTX)](https://1drv.ms/p/c/e59828bc6d482817/ETATHflx3DhFhr3WtHE5Q4UBqhOro693ra82kqJtCdotAQ?e=gRr2cH).
+I recently completed my Ph.D. in Computer Science and Engineering at The Pennsylvania State University. My doctoral research focused on Quantum Computing, with a particular emphasis on Quantum Error Correction (QEC). Under the guidance of Professor Swaroop Ghosh, my dissertation, titled _“Spatiotemporal Optimization and Analysis of Resource Utilization in Quantum Error Correction”_,explored strategies for building more resilient and scalable quantum systems. [View Dissertation Defense Slides (PPTX)](https://1drv.ms/p/c/e59828bc6d482817/ETATHflx3DhFhr3WtHE5Q4UBqhOro693ra82kqJtCdotAQ?e=gRr2cH).
 
 My journey into QEC began with a deep curiosity about quantum technologies and a strong desire to make their potential accessible to more people. As a computer scientist entering a field traditionally dominated by physics and mathematics, I quickly realized the value of diverse perspectives. My goal is to break down the barriers around Quantum Computing and make it more approachable for researchers from a variety of backgrounds.
 
@@ -15,14 +16,13 @@ Explore the key sections of my academic portfolio:
 * <i class="fas fa-newspaper"></i> [News](https://avimita-amc8313.github.io/avimita_chatterjee/news/) – Updates and announcements on research, events, and milestones
 * <i class="fas fa-book-open"></i> [Publications](https://avimita-amc8313.github.io/avimita_chatterjee/publications/) – Peer-reviewed papers, manuscripts, and selected preprints
 * <i class="fas fa-microphone"></i> [Talks](https://avimita-amc8313.github.io/avimita_chatterjee/talks/) – Presentations and invited talks at conferences, workshops, and seminars
-* <i class="fas fa-video"></i> [Media](https://avimita-amc8313.github.io/avimita_chatterjee/media/) - Recordings of interviews, podcasts, and public talks
 * <i class="fas fa-chalkboard-teacher"></i> [Teaching](https://avimita-amc8313.github.io/avimita_chatterjee/teaching/) – Courses and academic mentoring
 
 Research in Quantum Error Correction
 ======
 Quantum Error Correction is one of the most essential yet complex components of quantum computing. It addresses the fragile nature of quantum information and is crucial for building fault-tolerant quantum systems. My research is focused on optimizing the use of space and time resources in QEC, reducing the overhead associated with error correction protocols, and designing scalable, efficient solutions.
 
-Throughout my doctoral work, I have authored numerous research papers, ten of which I led as the first author. These publications form the foundation of my dissertation and represent years of detailed exploration into the practical challenges and opportunities in QEC. In recognition of my work, I was honored with a nomination for the Outstanding Research Assistant Award at Penn State.
+Throughout my work, I have authored numerous research papers. These publications form the foundation of my dissertation and represent years of detailed exploration into the practical challenges and opportunities in QEC. In recognition of my work, I was honored with a nomination for the Outstanding Research Assistant Award at Penn State.
 
 
 Internship at the QED-C, managed by SRI International
