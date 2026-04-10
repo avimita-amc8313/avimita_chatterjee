@@ -231,60 +231,62 @@
 
 # ############################################################################################
 
-- title: '**Chatterjee A**, “**Formulating Support for Superpages to reduce the number of TLB Faults in Contiguous Virtual Memory Space**”, In 2019 IEEE 10th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference, pp. 0708-0715. IEEE, 2019'
-  venues:
-    - name: 'IEEE Xplore 2019'
-      type: 'conference'
-  links:
-    - label: 'Paper'
-      url: 'https://ieeexplore.ieee.org/abstract/document/8993035'
+# - title: '**Chatterjee A**, “**Formulating Support for Superpages to reduce the number of TLB Faults in Contiguous Virtual Memory Space**”, In 2019 IEEE 10th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference, pp. 0708-0715. IEEE, 2019'
+#   venues:
+#     - name: 'IEEE Xplore 2019'
+#       type: 'conference'
+#   links:
+#     - label: 'Paper'
+#       url: 'https://ieeexplore.ieee.org/abstract/document/8993035'
 
 # ############################################################################################
 
-- title: 'Saha, HN, **Chatterjee A**, et al., “**Acceptability Based Clustering Routing Protocol in MANET**”, In 2018 IEEE 9th Annual Information Technology, Electronics and Mobile Communication Conference, pp. 1172-1180. IEEE, 2018'
-  venues:
-    - name: 'IEEE Xplore 2018'
-      type: 'conference'
-  links:
-    - label: 'Paper'
-      url: 'https://ieeexplore.ieee.org/abstract/document/8614916'
+# - title: 'Saha, HN, **Chatterjee A**, et al., “**Acceptability Based Clustering Routing Protocol in MANET**”, In 2018 IEEE 9th Annual Information Technology, Electronics and Mobile Communication Conference, pp. 1172-1180. IEEE, 2018'
+#   venues:
+#     - name: 'IEEE Xplore 2018'
+#       type: 'conference'
+#   links:
+#     - label: 'Paper'
+#       url: 'https://ieeexplore.ieee.org/abstract/document/8614916'
 
 # ############################################################################################
 
-- title: 'Bhattacharyya D, **Chatterjee A**, et al., “**A novel approach to energy efficient low cost routing in MANET by reduction in packet size**”, In 2018 IEEE 8th Annual Computing and Communication Workshop and Conference (CCWC), pp. 679-684. IEEE, 2018'
-  venues:
-    - name: 'IEEE Xplore 2018'
-      type: 'conference'
-  links:
-    - label: 'Paper'
-      url: 'https://ieeexplore.ieee.org/abstract/document/8301743'
+# - title: 'Bhattacharyya D, **Chatterjee A**, et al., “**A novel approach to energy efficient low cost routing in MANET by reduction in packet size**”, In 2018 IEEE 8th Annual Computing and Communication Workshop and Conference (CCWC), pp. 679-684. IEEE, 2018'
+#   venues:
+#     - name: 'IEEE Xplore 2018'
+#       type: 'conference'
+#   links:
+#     - label: 'Paper'
+#       url: 'https://ieeexplore.ieee.org/abstract/document/8301743'
 
 # ############################################################################################
 
-- title: 'Saha HN, Auddy S, **Chatterjee A**, et al., “**IoT solutions for smart cities**”, In 2017 8th Annual Industrial Automation and Electromechanical Engineering Conference, pp. 74-80. IEEE, 2017'
-  venues:
-    - name: 'IEEE Xplore 2017'
-      type: 'conference'
-  links:
-    - label: 'Paper'
-      url: 'https://ieeexplore.ieee.org/abstract/document/8079565'
+# - title: 'Saha HN, Auddy S, **Chatterjee A**, et al., “**IoT solutions for smart cities**”, In 2017 8th Annual Industrial Automation and Electromechanical Engineering Conference, pp. 74-80. IEEE, 2017'
+#   venues:
+#     - name: 'IEEE Xplore 2017'
+#       type: 'conference'
+#   links:
+#     - label: 'Paper'
+#       url: 'https://ieeexplore.ieee.org/abstract/document/8079565'
 
 # ############################################################################################
 
-- title: 'Saha HN, Auddy S, **Chatterjee A**, et al., “**Pollution control using internet of things (IoT)**”, In 2017 8th Annual Industrial Automation and Electromechanical Engineering Conference, pp. 65-68. IEEE, 2017'
-  venues:
-    - name: 'IEEE Xplore 2017'
-      type: 'conference'
-  links:
-    - label: 'Paper'
-      url: 'https://ieeexplore.ieee.org/abstract/document/8079563'
+# - title: 'Saha HN, Auddy S, **Chatterjee A**, et al., “**Pollution control using internet of things (IoT)**”, In 2017 8th Annual Industrial Automation and Electromechanical Engineering Conference, pp. 65-68. IEEE, 2017'
+#   venues:
+#     - name: 'IEEE Xplore 2017'
+#       type: 'conference'
+#   links:
+#     - label: 'Paper'
+#       url: 'https://ieeexplore.ieee.org/abstract/document/8079563'
 
 # ############################################################################################
 
-- title: 'Banerjee S, Mitra B, **Chatterjee A**, Santra A, Chatterjee B, “**Identification of relevant physico chemical properties of amino acids with respect to protein glycosylation prediction**”, In 2015 International Conference and Workshop on Computing and Communication, pp. 1-7. IEEE, 2015'
-  venues:
-    - name: 'IEEE Xplore 2015'
-      type: 'conference'
-  links:
-    - label: 'Paper'
-      url: 'https://ieeexplore.ieee.org/abstract/document/7344520'
+# - title: 'Banerjee S, Mitra B, **Chatterjee A**, Santra A, Chatterjee B, “**Identification of relevant physico chemical properties of amino acids with respect to protein glycosylation prediction**”, In 2015 International Conference and Workshop on Computing and Communication, pp. 1-7. IEEE, 2015'
+#   venues:
+#     - name: 'IEEE Xplore 2015'
+#       type: 'conference'
+#   links:
+#     - label: 'Paper'
+#       url: 'https://ieeexplore.ieee.org/abstract/document/7344520'
+
+# ############################################################################################
