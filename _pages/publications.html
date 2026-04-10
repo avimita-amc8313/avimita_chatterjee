@@ -5,92 +5,149 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% include google-scholar-widget.html scholar_id="TT9m3j0AAAAJ" %}
+<style>
+#pubpage .pub-legend {
+  font-size: 0.8rem !important;
+  line-height: 1.4 !important;
+  margin-top: 1rem !important;
+  margin-bottom: 1.2rem !important;
+}
+
+#pubpage .pub-legend-label {
+  font-size: 0.8rem !important;
+  font-weight: 400 !important;
+  margin-right: 0.25rem !important;
+}
+
+#pubpage .publication-item {
+  margin-bottom: 1.5rem !important;
+  padding-bottom: 1rem !important;
+  border-bottom: 1px solid #e5e5e5 !important;
+}
+
+#pubpage .publication-title {
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  line-height: 1.4 !important;
+  margin: 0 0 0.55rem 0 !important;
+}
+
+#pubpage .publication-title strong,
+#pubpage .publication-title b {
+  font-weight: 700 !important;
+}
+
+#pubpage .publication-buttons {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 0.3rem !important;
+  align-items: center !important;
+}
+
+#pubpage .pub-badge,
+#pubpage .pub-button {
+  display: inline-block !important;
+  padding: 0.16rem 0.45rem !important;
+  border-radius: 999px !important;
+  font-size: 0.68rem !important;
+  line-height: 1.1 !important;
+  font-weight: 400 !important;
+}
+
+#pubpage .pub-badge {
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
+#pubpage a.pub-button {
+  background: #f6f8fa !important;
+  border: 1px solid #d0d7de !important;
+  color: #24292f !important;
+  text-decoration: none !important;
+}
+
+#pubpage a.pub-button:hover {
+  background: #eef2f6 !important;
+  text-decoration: none !important;
+}
+
+#pubpage .badge-arxiv {
+  background: #b31b1b !important;
+}
+
+#pubpage .badge-journal {
+  background: #1f77b4 !important;
+}
+
+#pubpage .badge-conference {
+  background: #2ca02c !important;
+}
+
+#pubpage .badge-abstract {
+  background: #b86a00 !important;
+}
+
+#pubpage .badge-book {
+  background: #7b1fa2 !important;
+}
+
+#pubpage .badge-default {
+  background: #6c757d !important;
+}
+</style>
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-<!-- {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %} --> 
+<div id="pubpage">
+  {% include google-scholar-widget.html scholar_id="TT9m3j0AAAAJ" %}
 
-<!-- ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
---- -->
+  <div class="pub-legend">
+    <span class="pub-legend-label">Legend:</span>
+    <span class="pub-badge badge-arxiv">arXiv</span>
+    <span class="pub-badge badge-journal">Journal</span>
+    <span class="pub-badge badge-conference">Conference</span>
+    <span class="pub-badge badge-abstract">Abstract</span>
+    <span class="pub-badge badge-book">Book / Chapter</span>
+  </div>
 
-{% include base_path %}
+  <div class="publications-simple">
+    {% for pub in site.data.publications %}
+      <div class="publication-item">
+        <p class="publication-title">{{ pub.title | markdownify | remove: '<p>' | remove: '</p>' }}</p>
 
-{% include google-scholar-widget.html scholar_id="TT9m3j0AAAAJ" %}
+        <div class="publication-buttons">
+          {% if pub.venues %}
+            {% for venue in pub.venues %}
+              {% assign venue_type = venue.type | downcase %}
 
-<div class="pub-legend">
-  <strong>Legend:</strong>
-  <span class="pub-badge badge-arxiv">arXiv</span>
-  <span class="pub-badge badge-journal">Journal</span>
-  <span class="pub-badge badge-conference">Conference</span>
-  <span class="pub-badge badge-abstract">Abstract</span>
-  <span class="pub-badge badge-book">Book / Chapter</span>
-</div>
+              {% case venue_type %}
+                {% when "arxiv" %}
+                  {% assign venue_class = "badge-arxiv" %}
+                {% when "journal" %}
+                  {% assign venue_class = "badge-journal" %}
+                {% when "conference" %}
+                  {% assign venue_class = "badge-conference" %}
+                {% when "abstract" %}
+                  {% assign venue_class = "badge-abstract" %}
+                {% when "book" %}
+                  {% assign venue_class = "badge-book" %}
+                {% else %}
+                  {% assign venue_class = "badge-default" %}
+              {% endcase %}
 
-<div class="publications-simple">
-  {% for pub in site.data.publications %}
-    <div class="publication-item">
-      <!-- <div class="publication-title">{{ pub.title }}</div> -->
-      <p class="publication-title">{{ pub.title | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+              <span class="pub-badge {{ venue_class }}">{{ venue.name }}</span>
+            {% endfor %}
+          {% endif %}
 
-      <div class="publication-buttons">
-        {% if pub.venues %}
-          {% for venue in pub.venues %}
-            {% assign venue_type = venue.type | downcase %}
-
-            {% case venue_type %}
-              {% when "arxiv" %}
-                {% assign venue_class = "badge-arxiv" %}
-              {% when "journal" %}
-                {% assign venue_class = "badge-journal" %}
-              {% when "conference" %}
-                {% assign venue_class = "badge-conference" %}
-              {% when "abstract" %}
-                {% assign venue_class = "badge-abstract" %}
-              {% when "book" %}
-                {% assign venue_class = "badge-book" %}
-              {% else %}
-                {% assign venue_class = "badge-default" %}
-            {% endcase %}
-
-            <span class="pub-badge {{ venue_class }}">{{ venue.name }}</span>
-          {% endfor %}
-        {% endif %}
-
-        {% if pub.links %}
-          {% for link in pub.links %}
-            <a class="pub-button" href="{{ link.url }}" target="_blank" rel="noopener noreferrer">
-              {{ link.label }}
-            </a>
-          {% endfor %}
-        {% endif %}
+          {% if pub.links %}
+            {% for link in pub.links %}
+              <a class="pub-button" href="{{ link.url }}" target="_blank" rel="noopener noreferrer">
+                {{ link.label }}
+              </a>
+            {% endfor %}
+          {% endif %}
+        </div>
       </div>
-    </div>
-  {% endfor %}
+    {% endfor %}
+  </div>
 </div>
-
-
-
