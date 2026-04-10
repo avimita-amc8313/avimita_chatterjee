@@ -29,7 +29,7 @@
     - name: 'Springer Nature 2026'
       type: 'book'
   links:
-    - label: 'Paper'
+    - label: 'Book Chapter'
       url: 'https://link.springer.com/chapter/10.1007/978-3-032-09303-5_6'
 
 - title: '**Chatterjee A**, Das S, Ghosh S, “**Q-Pandora Unboxed: Characterizing Resilience of Quantum Error Correction Codes Under Biased Noise**”, Applied Sciences 15, no. 8 (2025): 4555'
@@ -49,6 +49,14 @@
   links:
     - label: 'Paper'
       url: 'https://ieeexplore.ieee.org/abstract/document/10949677'
+      
+- title: 'Patel N, ..., **Chatterjee A**, ..., Niu S, “**Platform-Agnostic Modular Architecture for Quantum Benchmarking**”'
+  venues:
+    - name: 'arXiv 2025'
+      type: 'arxiv'
+  links:
+    - label: 'Paper'
+      url: 'https://arxiv.org/abs/2510.08469'
 
 - title: '**Chatterjee A**, Das, S, Ghosh S, “**Lattice Surgery for Dummies**”, Sensors, 25(6), p.1854'
   venues:
@@ -57,6 +65,22 @@
   links:
     - label: 'Paper'
       url: 'https://www.mdpi.com/1424-8220/25/6/1854'
+
+- title: 'Kundu D, **Chatterjee A**, Ghosh A, Ghosh S, “**Capturing Quantum Snapshots from a Single Copy via Mid-Circuit**”'
+  venues:
+    - name: 'arXiv 2025'
+      type: 'arxiv'
+  links:
+    - label: 'Paper'
+      url: 'https://arxiv.org/abs/2504.21250'
+
+- title: 'Kundu D, **Chatterjee A**, Ghosh S, “**Guess, SWAP, Repeat : Capturing Quantum Snapshots in Classical Memory**”'
+  venues:
+    - name: 'arXiv 2025'
+      type: 'arxiv'
+  links:
+    - label: 'Paper'
+      url: 'https://arxiv.org/abs/2504.14459'
 
 - title: '**Chatterjee A**, Kundu D, Ghosh S, “**A Quantum Sorcerer’s Stone For Designing Surface Codes**”, Entropy, 27(8), p.812'
   venues:
@@ -86,6 +110,14 @@
   links:
     - label: 'Paper'
       url: 'https://ieeexplore.ieee.org/abstract/document/11014328'
+
+- title: '**Chatterjee A**, Ghosh, A, Ghosh S, “**The Q-Spellbook: Crafting Surface Code Layouts and Magic State Protocols for Large-Scale Quantum Computing**”'
+  venues:
+    - name: 'arXiv 2025'
+      type: 'arxiv'
+  links:
+    - label: 'Paper'
+      url: 'https://arxiv.org/abs/2502.11253'  
 
 - title: 'Das S, **Chatterjee A**, Ghosh S, “**Investigating impact of bit-flip errors in control electronics on quantum computation**”, In 2025 38th International Conference on VLSI Design and 2024 23rd International Conference on Embedded Systems, pp. 558-563. IEEE, 2025'
   venues:
