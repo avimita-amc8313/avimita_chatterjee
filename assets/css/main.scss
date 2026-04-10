@@ -45,3 +45,87 @@
 
 /* safety nets */
 .page, .initial-content, .page__inner-wrap { padding-bottom: 0; margin-bottom: 0; }
+
+
+// new for publications
+.pub-legend {
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+  font-size: 0.95rem;
+  line-height: 1.8;
+}
+
+.publications-simple {
+  margin-top: 1rem;
+}
+
+.publication-item {
+  margin-bottom: 2rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.publication-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.5;
+  margin-bottom: 0.75rem;
+}
+
+.publication-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  align-items: center;
+}
+
+.pub-badge,
+.pub-button {
+  display: inline-block;
+  padding: 0.42rem 0.85rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  line-height: 1.2;
+  font-weight: 600;
+}
+
+.pub-badge {
+  color: #ffffff;
+  cursor: default;
+}
+
+.pub-button {
+  background: #f6f8fa;
+  border: 1px solid #d0d7de;
+  color: #24292f;
+  text-decoration: none;
+}
+
+.pub-button:hover {
+  text-decoration: none;
+  background: #eef2f6;
+}
+
+.badge-arxiv {
+  background: #b31b1b;
+}
+
+.badge-journal {
+  background: #1f77b4;
+}
+
+.badge-conference {
+  background: #2ca02c;
+}
+
+.badge-abstract {
+  background: #ff9800;
+}
+
+.badge-book {
+  background: #7b1fa2;
+}
+
+.badge-default {
+  background: #6c757d;
+}
