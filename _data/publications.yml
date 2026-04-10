@@ -52,7 +52,7 @@
 
 # ############################################################################################
 
-- title: '**Chatterjee A**, Rappaport S, Giri A, Johri S, Proctor T, Neira D.E.B, Sathe P, Lubinski T, “**A Comprehensive Cross-Model Framework for Benchmarking the Performance of Quantum Hamiltonians**”, IEEE Transactions on Quantum Engineering. 2025 Apr 4'
+- title: '**Chatterjee A**, Rappaport S, Giri A, Johri S, Proctor T, Neira DEB, Sathe P, Lubinski T, “**A Comprehensive Cross-Model Framework for Benchmarking the Performance of Quantum Hamiltonians**”, IEEE Transactions on Quantum Engineering. 2025 Apr 4'
   venues:
     - name: 'IEEE TQE 2025'
       type: 'journal'
@@ -64,7 +64,7 @@
       
 # ############################################################################################
 
-- title: 'Patel N, ..., **Chatterjee A**, ..., Niu S, “**Platform-Agnostic Modular Architecture for Quantum Benchmarking**”'
+- title: 'Patel N, Giri A, Patil HP, Siekierski N, **Chatterjee A**, Johri S, Proctor T, Lubinski T, Niu S, “**Platform-Agnostic Modular Architecture for Quantum Benchmarking**”'
   venues:
     - name: 'arXiv 2025'
       type: 'arxiv'
@@ -121,9 +121,9 @@
 
 # ############################################################################################
 
-- title: 'Niu S, ..., **Chatterjee A**, ..., Lubinski T, “**A Practical Framework for Assessing the Performance of Observable Estimation in Quantum Simulation**”, In 2025 IEEE International Conference on Quantum Computing and Engineering (QCE), vol. 1, pp. 375-386. IEEE, 2025'
+- title: 'Niu S, Kökcü E, Johri S, Ramesh A, **Chatterjee A**, Neira DEB, Camps D, Lubinski T, “**A Practical Framework for Assessing the Performance of Observable Estimation in Quantum Simulation**”, In 2025 IEEE International Conference on Quantum Computing and Engineering (QCE), vol. 1, pp. 375-386. IEEE, 2025'
   venues:
-    - name: 'IEEE Quantum Week 2025 / OCE'
+    - name: 'IEEE Quantum Week / QCE 2025'
       type: 'conference'
   links:
     - label: 'Paper'
@@ -171,19 +171,9 @@
 
 # ############################################################################################
 
-- title: 'Phalak K, **Chatterjee A**, Ghosh S, “**Quantum Random Access Memory For Dummies**”, Sensors, 23(17), p.7462'
-  venues:
-    - name: 'Sensors 2023'
-      type: 'journal'
-  links:
-    - label: 'Paper'
-      url: 'https://www.mdpi.com/1424-8220/23/17/7462'
-
-# ############################################################################################
-
 - title: '**Chatterjee A**, Ghosh S, “**Magic Mirror on the Wall, How to Benchmark Quantum Error Correction Codes, Overall?**”, In 2024 IEEE International Conference on Quantum Computing and Engineering (QCE), vol. 1, pp. 356-367. IEEE, 2024'
   venues:
-    - name: 'IEEE Quantum Week 2024 / QCE'
+    - name: 'IEEE Quantum Week / QCE 2025'
       type: 'conference'
   links:
     - label: 'Paper'
@@ -193,7 +183,7 @@
 
 - title: '**Chatterjee A**, Kundu, D, Ghosh S, “**Q-Embroidery: A Study of Weaving Quantum Error Correction into the Fabric of Quantum Classifiers**”, In Proceedings of the Great Lakes Symposium on VLSI 2024, pp. 119-124. 2024'
   venues:
-    - name: 'GLSVLSI'
+    - name: 'GLSVLSI 2024'
       type: 'conference'
   links:
     - label: 'Paper'
@@ -213,7 +203,7 @@
 
 - title: 'Das S, **Chatterjee A**, Ghosh S, “**A First Order Survey of Quantum Supply Dynamics and Threat Landscapes**”, In Proceedings of the 12th International Workshop on Hardware and Architectural Support for Security and Privacy, pp. 82-90. 2023'
   venues:
-    - name: 'HASP'
+    - name: 'HASP 2023'
       type: 'conference'
   links:
     - label: 'Paper'
@@ -221,9 +211,19 @@
 
 # ############################################################################################
 
+- title: 'Phalak K, **Chatterjee A**, Ghosh S, “**Quantum Random Access Memory For Dummies**”, Sensors, 23(17), p.7462'
+  venues:
+    - name: 'Sensors 2023'
+      type: 'journal'
+  links:
+    - label: 'Paper'
+      url: 'https://www.mdpi.com/1424-8220/23/17/7462'
+
+# ############################################################################################
+
 - title: '**Chatterjee A**, Phalak K, Ghosh S, “**Quantum Error Correction For Dummies**”, In 2023 IEEE International Conference on Quantum Computing and Engineering (QCE), vol. 1, pp. 70-81. IEEE, 2023'
   venues:
-    - name: 'IEEE Quantum Week 2023 / QCE'
+    - name: 'IEEE Quantum Week / QCE 2025'
       type: 'conference'
   links:
     - label: 'Paper'
