@@ -149,3 +149,52 @@
 .badge-default {
   background: #6c757d;
 }
+
+/* =========================
+   PUBLICATIONS — FORCE SMALL STYLE
+   ========================= */
+
+.page__content .pub-legend,
+.archive .pub-legend {
+  font-size: 0.8rem !important;
+  line-height: 1.4 !important;
+  margin-top: 1rem;
+  margin-bottom: 1.2rem;
+}
+
+.page__content .pub-legend-label,
+.archive .pub-legend-label {
+  font-size: 0.8rem !important;
+  font-weight: 400 !important;
+}
+
+.page__content .pub-badge,
+.archive .pub-badge,
+.page__content .pub-button,
+.archive .pub-button,
+.page__content .publication-buttons a,
+.archive .publication-buttons a {
+  font-size: 0.65rem !important;
+  padding: 0.15rem 0.45rem !important;
+  border-radius: 999px !important;
+  line-height: 1.1 !important;
+  font-weight: 400 !important;
+}
+
+.page__content .publication-buttons,
+.archive .publication-buttons {
+  gap: 0.3rem !important;
+}
+
+.page__content .pub-button,
+.archive .pub-button {
+  background: #f6f8fa !important;
+  border: 1px solid #d0d7de !important;
+  color: #24292f !important;
+  text-decoration: none !important;
+}
+
+.page__content .pub-button:hover,
+.archive .pub-button:hover {
+  background: #eef2f6 !important;
+}
