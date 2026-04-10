@@ -53,7 +53,8 @@ author_profile: true
 <div class="publications-simple">
   {% for pub in site.data.publications %}
     <div class="publication-item">
-      <div class="publication-title">{{ pub.title }}</div>
+      <!-- <div class="publication-title">{{ pub.title }}</div> -->
+      <p class="publication-title">{{ pub.title | markdownify | remove: '<p>' | remove: '</p>' }}</p>
 
       <div class="publication-buttons">
         {% if pub.venues %}
