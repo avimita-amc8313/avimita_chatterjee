@@ -1,0 +1,35 @@
+- title: "MITS: A Quantum Sorcerer Stone For Designing Surface Codes"
+  venues:
+    - name: "Entropy 2025"
+      type: "journal"
+    - name: "QEC Workshop Abstract"
+      type: "abstract"
+  links:
+    - label: "Paper"
+      url: "https://www.mdpi.com/1099-4300/27/8/812"
+    - label: "PDF"
+      url: "https://www.mdpi.com/1099-4300/27/8/812/pdf"
+
+- title: "Example arXiv Paper"
+  venues:
+    - name: "arXiv"
+      type: "arxiv"
+  links:
+    - label: "Paper"
+      url: "https://arxiv.org/abs/1234.56789"
+
+- title: "Example Conference Paper"
+  venues:
+    - name: "QIP 2026"
+      type: "conference"
+  links:
+    - label: "Paper"
+      url: "https://example.com/conference-paper"
+
+- title: "Example Book Chapter"
+  venues:
+    - name: "Book Chapter"
+      type: "book"
+  links:
+    - label: "Publisher"
+      url: "https://example.com/book-chapter"
