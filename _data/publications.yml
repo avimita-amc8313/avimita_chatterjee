@@ -1,4 +1,4 @@
-- title: '**Chatterjee A**, Ghosh, A, Ghosh S, “**The Art of Optimizing T-Depth for Quantum Error Correction in Large-Scale Quantum Computing**”, arXiv 2025 [Accepted for publication in IEEE ISQED 2026]'
+- title: '**Chatterjee A**, Ghosh, A, Ghosh S, “**The Art of Optimizing T-Depth for Quantum Error Correction in Large-Scale Quantum Computing**”
   venues:
     - name: 'arXiv'
       type: 'arxiv'
@@ -40,10 +40,12 @@
     - label: 'Paper'
       url: 'https://www.mdpi.com/2076-3417/15/8/4555'
 
-- title: '**Chatterjee A**, ..., Lubinski T, “**A Comprehensive Cross-Model Framework for Benchmarking the Performance of Quantum Hamiltonians**”, IEEE Transactions on Quantum Engineering. 2025 Apr 4'
+- title: '**Chatterjee A**, Rappaport S, Giri A, Johri S, Proctor T, Neira D.E.B, Sathe P, Lubinski T, “**A Comprehensive Cross-Model Framework for Benchmarking the Performance of Quantum Hamiltonians**”, IEEE Transactions on Quantum Engineering. 2025 Apr 4'
   venues:
     - name: 'IEEE TQE 2025'
       type: 'journal'
+    - name: 'APS March Meeting 2025'
+      type: 'abstract'
   links:
     - label: 'Paper'
       url: 'https://ieeexplore.ieee.org/abstract/document/10949677'
@@ -64,53 +66,42 @@
     - label: 'Paper'
       url: 'https://www.mdpi.com/1099-4300/27/8/812'
 
-- title: 'Kundu D, **Chatterjee A**, ..., Ghosh S, “**A Survey on RNA Folding and 3D Structure Prediction**”, [Accepted for publication in Springer AIIoT 2025]'
+- title: 'Kundu D, **Chatterjee A**, ..., Ghosh S, “**A Survey on RNA Folding and 3D Structure Prediction**”
   venues:
     - name: 'Springer AIIoT 2025'
       type: 'conference'
-  links:
-    - label: 'Paper'
-      url: 'https://example.com/c16'
 
 - title: 'Niu S, ..., **Chatterjee A**, ..., Lubinski T, “**A Practical Framework for Assessing the Performance of Observable Estimation in Quantum Simulation**”, In 2025 IEEE International Conference on Quantum Computing and Engineering (QCE), vol. 1, pp. 375-386. IEEE, 2025'
   venues:
-    - name: 'IEEE Quantum Week 2025'
+    - name: 'IEEE Quantum Week 2025 / OCE'
       type: 'conference'
   links:
     - label: 'Paper'
       url: 'https://ieeexplore.ieee.org/abstract/document/11250252'
 
-- title: '**Chatterjee A**, Ghosh A, Ghosh S, “**Quantum Prometheus: Defying Overhead with Recycled Ancillas in Quantum Error Correction**”, In 2025 26th International Symposium on Quality Electronic Design (ISQED), pp. 1-7. IEEE, 2025'
+- title: '**Chatterjee A**, Ghosh A, Ghosh S, “**Quantum Prometheus: Defying Overhead with Recycled Ancillas in Quantum Error Correction**”, In 2025 26th International Symposium on Quality Electronic Design, pp. 1-7. IEEE, 2025'
   venues:
-    - name: 'IEEE ISQED 2025'
+    - name: 'ISQED 2025'
       type: 'conference'
   links:
     - label: 'Paper'
       url: 'https://ieeexplore.ieee.org/abstract/document/11014328'
 
-- title: 'Das S, **Chatterjee A**, Ghosh S, “**Investigating impact of bit-flip errors in control electronics on quantum computation**”, In 2025 38th International Conference on VLSI Design and 2024 23rd International Conference on Embedded Systems (VLSID), pp. 558-563. IEEE, 2025'
+- title: 'Das S, **Chatterjee A**, Ghosh S, “**Investigating impact of bit-flip errors in control electronics on quantum computation**”, In 2025 38th International Conference on VLSI Design and 2024 23rd International Conference on Embedded Systems, pp. 558-563. IEEE, 2025'
   venues:
-    - name: 'IEEE VLSID 2025'
+    - name: 'VLSID 2025'
       type: 'conference'
   links:
     - label: 'Paper'
       url: 'https://ieeexplore.ieee.org/abstract/document/10900663'
 
-- title: 'Ghosh A, Kundu D, **Chatterjee A**, Ghosh S, “**Guardians of the Quantum GAN**”, In 2025 26th International Symposium on Quality Electronic Design (ISQED), pp. 1-8. IEEE, 2025'
+- title: 'Ghosh A, Kundu D, **Chatterjee A**, Ghosh S, “**Guardians of the Quantum GAN**”, In 2025 26th International Symposium on Quality Electronic Design, pp. 1-8. IEEE, 2025'
   venues:
-    - name: 'IEEE ISQED 2025'
+    - name: 'ISQED 2025'
       type: 'conference'
   links:
     - label: 'Paper'
       url: 'https://ieeexplore.ieee.org/abstract/document/11014340'
-
-- title: '**Chatterjee A**, ..., Lubinski T, “**A Comprehensive Cross-Model Framework for Benchmarking the Performance of Quantum Hamiltonian Simulations**”, Abstract in American Physical Society (APS) - Global Physics Summit 2025'
-  venues:
-    - name: 'APS March Meeting 2025'
-      type: 'abstract'
-  links:
-    - label: 'Paper'
-      url: 'https://schedule.aps.org/smt/2025/events/VIR-C01/5'
 
 - title: 'Phalak K, **Chatterjee A**, Ghosh S, “**Quantum Random Access Memory For Dummies**”, Sensors, 23(17), p.7462'
   venues:
@@ -122,7 +113,7 @@
 
 - title: '**Chatterjee A**, Ghosh S, “**Magic Mirror on the Wall, How to Benchmark Quantum Error Correction Codes, Overall?**”, In 2024 IEEE International Conference on Quantum Computing and Engineering (QCE), vol. 1, pp. 356-367. IEEE, 2024'
   venues:
-    - name: 'IEEE Quantum Week 2024'
+    - name: 'IEEE Quantum Week 2024 / QCE'
       type: 'conference'
   links:
     - label: 'Paper'
@@ -130,7 +121,7 @@
 
 - title: '**Chatterjee A**, Kundu, D, Ghosh S, “**Q-Embroidery: A Study of Weaving Quantum Error Correction into the Fabric of Quantum Classifiers**”, In Proceedings of the Great Lakes Symposium on VLSI 2024, pp. 119-124. 2024'
   venues:
-    - name: 'ACM GLSVLSI 2024'
+    - name: 'GLSVLSI'
       type: 'conference'
   links:
     - label: 'Paper'
@@ -138,7 +129,7 @@
 
 - title: 'Bhattacharjee D, ..., **Chatterjee A**, ..., Chattopadhyay A, “**Software Flow for Quantum Computing**”, In International Conference on Computational Technologies and Electronics, pp. 206-227. Springer Nature Switzerland, 2023'
   venues:
-    - name: 'Springer 2023'
+    - name: 'ICCTE 2023'
       type: 'conference'
   links:
     - label: 'Paper'
@@ -146,7 +137,7 @@
 
 - title: 'Das S, **Chatterjee A**, Ghosh S, “**A First Order Survey of Quantum Supply Dynamics and Threat Landscapes**”, In Proceedings of the 12th International Workshop on Hardware and Architectural Support for Security and Privacy, pp. 82-90. 2023'
   venues:
-    - name: 'ACM HASP 2023'
+    - name: 'HASP'
       type: 'conference'
   links:
     - label: 'Paper'
@@ -154,7 +145,7 @@
 
 - title: '**Chatterjee A**, Phalak K, Ghosh S, “**Quantum Error Correction For Dummies**”, In 2023 IEEE International Conference on Quantum Computing and Engineering (QCE), vol. 1, pp. 70-81. IEEE, 2023'
   venues:
-    - name: 'IEEE Quantum Week 2023'
+    - name: 'IEEE Quantum Week 2023 / QCE'
       type: 'conference'
   links:
     - label: 'Paper'
