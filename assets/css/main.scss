@@ -51,12 +51,13 @@
 .pub-legend {
   margin-top: 1.5rem;
   margin-bottom: 2rem;
-  font-size: 1rem;
+  font-size: 1rem !important;
   line-height: 1.8;
 }
 
 .pub-legend-label {
-  font-weight: 400;
+  font-weight: 400 !important;
+  font-size: 1rem !important;
   margin-right: 0.35rem;
 }
 
@@ -70,11 +71,17 @@
   border-bottom: 1px solid #e5e5e5;
 }
 
-.publication-title {
-  font-size: 1rem;
-  font-weight: 400;
-  line-height: 1.5;
-  margin-bottom: 0.75rem;
+.publication-title,
+.publication-title p {
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  line-height: 1.5 !important;
+  margin: 0 0 0.75rem 0 !important;
+}
+
+.publication-title strong,
+.publication-title b {
+  font-weight: 700 !important;
 }
 
 .publication-buttons {
@@ -89,25 +96,33 @@
   display: inline-block;
   padding: 0.42rem 0.85rem;
   border-radius: 999px;
-  font-size: 0.95rem;
+  font-size: 0.95rem !important;
   line-height: 1.2;
-  font-weight: 400;
+  font-weight: 400 !important;
 }
 
 .pub-badge {
   color: #ffffff;
   cursor: default;
+  text-decoration: none !important;
 }
 
-.pub-button {
+.pub-button,
+.publication-buttons a.pub-button,
+.page__content a.pub-button,
+.archive a.pub-button {
   background: #f6f8fa;
   border: 1px solid #d0d7de;
-  color: #24292f;
-  text-decoration: none;
+  color: #24292f !important;
+  text-decoration: none !important;
+  font-weight: 400 !important;
 }
 
-.pub-button:hover {
-  text-decoration: none;
+.pub-button:hover,
+.publication-buttons a.pub-button:hover,
+.page__content a.pub-button:hover,
+.archive a.pub-button:hover {
+  text-decoration: none !important;
   background: #eef2f6;
 }
 
@@ -124,7 +139,7 @@
 }
 
 .badge-abstract {
-  background: #cc7a00;
+  background: #b86a00;
 }
 
 .badge-book {
