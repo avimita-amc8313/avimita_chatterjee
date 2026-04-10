@@ -5,37 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% if site.author.googlescholar %}
-  <div class="wordwrap">You can explore my complete academic contributions on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
-{% endif %} -->
-
-<!-- {% if site.author.googlescholar %}
-  <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer" class="btn btn--primary">
-    View My Complete Google Scholar Profile
-  </a>
-{% endif %} -->
-
-{% include google-scholar-widget.html scholar_id="TT9m3j0AAAAJ" %}
-
-<!-- {% if site.author.googlescholar %}
-  <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer"
-     class="btn btn--info"
-     style="font-size: 1.05em; padding: 0.75em 1.25em; display: inline-flex; align-items: center; gap: 0.5em; text-decoration: none;">
-    <i class="fas fa-graduation-cap"></i> Click here to view my Google Scholar Profile
-  </a>
-{% endif %} -->
-
-<!-- <div style="text-align: center; margin-bottom: 2em;">
-  <a href="https://scholar.google.com/citations?user=TT9m3j0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer"
-     style="display: inline-block; padding: 0.6em 1.2em; background-color: #4285F4; color: white; border-radius: 6px; text-decoration: none; font-weight: bold;">
-    View my complete Google Scholar profile →
-  </a>
-</div> -->
+<!-- {% include google-scholar-widget.html scholar_id="TT9m3j0AAAAJ" %}
 
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
+<!-- {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -53,7 +28,68 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %}
+{% endif %} --> 
+
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% include google-scholar-widget.html scholar_id="TT9m3j0AAAAJ" %}
+
+<div class="pub-legend">
+  <strong>Legend:</strong>
+  <span class="pub-badge badge-arxiv">arXiv</span>
+  <span class="pub-badge badge-journal">Journal</span>
+  <span class="pub-badge badge-conference">Conference</span>
+  <span class="pub-badge badge-abstract">Abstract</span>
+  <span class="pub-badge badge-book">Book / Chapter</span>
+</div>
+
+<div class="publications-simple">
+  {% for pub in site.data.publications %}
+    <div class="publication-item">
+      <div class="publication-title">{{ pub.title }}</div>
+
+      <div class="publication-buttons">
+        {% if pub.venues %}
+          {% for venue in pub.venues %}
+            {% assign venue_type = venue.type | downcase %}
+
+            {% case venue_type %}
+              {% when "arxiv" %}
+                {% assign venue_class = "badge-arxiv" %}
+              {% when "journal" %}
+                {% assign venue_class = "badge-journal" %}
+              {% when "conference" %}
+                {% assign venue_class = "badge-conference" %}
+              {% when "abstract" %}
+                {% assign venue_class = "badge-abstract" %}
+              {% when "book" %}
+                {% assign venue_class = "badge-book" %}
+              {% else %}
+                {% assign venue_class = "badge-default" %}
+            {% endcase %}
+
+            <span class="pub-badge {{ venue_class }}">{{ venue.name }}</span>
+          {% endfor %}
+        {% endif %}
+
+        {% if pub.links %}
+          {% for link in pub.links %}
+            <a class="pub-button" href="{{ link.url }}" target="_blank" rel="noopener noreferrer">
+              {{ link.label }}
+            </a>
+          {% endfor %}
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
 
 
 
