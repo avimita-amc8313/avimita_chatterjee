@@ -1,35 +1,209 @@
-- title: "MITS: A Quantum Sorcerer Stone For Designing Surface Codes"
+- title: '**Chatterjee A**, Ghosh, A, Ghosh S, “**The Art of Optimizing T-Depth for Quantum Error Correction in Large-Scale Quantum Computing**”, arXiv 2025 [Accepted for publication in IEEE ISQED 2026]'
   venues:
-    - name: "Entropy 2025"
-      type: "journal"
-    - name: "QEC Workshop Abstract"
-      type: "abstract"
+    - name: 'arXiv'
+      type: 'arxiv'
+    - name: 'ISQED 2026'
+      type: 'conference'
   links:
-    - label: "Paper"
-      url: "https://www.mdpi.com/1099-4300/27/8/812"
-    - label: "PDF"
-      url: "https://www.mdpi.com/1099-4300/27/8/812/pdf"
+    - label: 'Paper'
+      url: 'https://arxiv.org/abs/2503.06045'
 
-- title: "Example arXiv Paper"
+- title: 'Ghosh A, **Chatterjee A**, Ghosh S, “**Survival of the Optimized: An Evolutionary Approach to T-depth Reduction**”, In 2026 31st Asia and South Pacific Design Automation Conference (ASP-DAC), pp. 198-204. IEEE, 2026'
   venues:
-    - name: "arXiv"
-      type: "arxiv"
+    - name: 'ASP-DAC 2026'
+      type: 'conference'
   links:
-    - label: "Paper"
-      url: "https://arxiv.org/abs/1234.56789"
+    - label: 'Paper'
+      url: 'https://ieeexplore.ieee.org/abstract/document/11420525'
 
-- title: "Example Conference Paper"
+- title: 'Ghosh A, **Chatterjee A**, Ghosh S, “**Beyond Static Floorplans: Workload-Aware Resource Management for Fault-Tolerant Quantum Systems**”, NSF Workshop on Systems Research at the Quantum-AI Frontier – OS, Fault Tolerance, and Edge Integration'
   venues:
-    - name: "QIP 2026"
-      type: "conference"
+    - name: 'QAISys 2026'
+      type: 'abstract'
   links:
-    - label: "Paper"
-      url: "https://example.com/conference-paper"
+    - label: 'Paper'
+      url: 'https://quantumos2024.yalepages.org/assets/QAIsys-Program-DraftMarch30.pdf'
 
-- title: "Example Book Chapter"
+- title: 'Ghosh A, **Chatterjee A**, Ghosh S, “**Design Automation in Quantum Error Correction**”, In: Mishra, P. (eds) “Design Automation for Quantum Computing”. Springer, pp 155–204'
   venues:
-    - name: "Book Chapter"
-      type: "book"
+    - name: 'Springer Nature 2026'
+      type: 'book'
   links:
-    - label: "Publisher"
-      url: "https://example.com/book-chapter"
+    - label: 'Paper'
+      url: 'https://link.springer.com/chapter/10.1007/978-3-032-09303-5_6'
+
+- title: '**Chatterjee A**, Das S, Ghosh S, “**Q-Pandora Unboxed: Characterizing Resilience of Quantum Error Correction Codes Under Biased Noise**”, Applied Sciences 15, no. 8 (2025): 4555'
+  venues:
+    - name: 'Applied Sciences 2025'
+      type: 'journal'
+  links:
+    - label: 'Paper'
+      url: 'https://www.mdpi.com/2076-3417/15/8/4555'
+
+- title: '**Chatterjee A**, ..., Lubinski T, “**A Comprehensive Cross-Model Framework for Benchmarking the Performance of Quantum Hamiltonians**”, IEEE Transactions on Quantum Engineering. 2025 Apr 4'
+  venues:
+    - name: 'IEEE TQE 2025'
+      type: 'journal'
+  links:
+    - label: 'Paper'
+      url: 'https://ieeexplore.ieee.org/abstract/document/10949677'
+
+- title: '**Chatterjee A**, Das, S, Ghosh S, “**Lattice Surgery for Dummies**”, Sensors, 25(6), p.1854'
+  venues:
+    - name: 'Sensors 2025'
+      type: 'journal'
+  links:
+    - label: 'Paper'
+      url: 'https://www.mdpi.com/1424-8220/25/6/1854'
+
+- title: '**Chatterjee A**, Kundu D, Ghosh S, “**A Quantum Sorcerer’s Stone For Designing Surface Codes**”, Entropy, 27(8), p.812'
+  venues:
+    - name: 'Entropy 2025'
+      type: 'journal'
+  links:
+    - label: 'Paper'
+      url: 'https://www.mdpi.com/1099-4300/27/8/812'
+
+- title: 'Kundu D, **Chatterjee A**, ..., Ghosh S, “**A Survey on RNA Folding and 3D Structure Prediction**”, [Accepted for publication in Springer AIIoT 2025]'
+  venues:
+    - name: 'Springer AIIoT 2025'
+      type: 'conference'
+  links:
+    - label: 'Paper'
+      url: 'https://example.com/c16'
+
+- title: 'Niu S, ..., **Chatterjee A**, ..., Lubinski T, “**A Practical Framework for Assessing the Performance of Observable Estimation in Quantum Simulation**”, In 2025 IEEE International Conference on Quantum Computing and Engineering (QCE), vol. 1, pp. 375-386. IEEE, 2025'
+  venues:
+    - name: 'IEEE Quantum Week 2025'
+      type: 'conference'
+  links:
+    - label: 'Paper'
+      url: 'https://ieeexplore.ieee.org/abstract/document/11250252'
+
+- title: '**Chatterjee A**, Ghosh A, Ghosh S, “**Quantum Prometheus: Defying Overhead with Recycled Ancillas in Quantum Error Correction**”, In 2025 26th International Symposium on Quality Electronic Design (ISQED), pp. 1-7. IEEE, 2025'
+  venues:
+    - name: 'IEEE ISQED 2025'
+      type: 'conference'
+  links:
+    - label: 'Paper'
+      url: 'https://ieeexplore.ieee.org/abstract/document/11014328'
+
+- title: 'Das S, **Chatterjee A**, Ghosh S, “**Investigating impact of bit-flip errors in control electronics on quantum computation**”, In 2025 38th International Conference on VLSI Design and 2024 23rd International Conference on Embedded Systems (VLSID), pp. 558-563. IEEE, 2025'
+  venues:
+    - name: 'IEEE VLSID 2025'
+      type: 'conference'
+  links:
+    - label: 'Paper'
+      url: 'https://ieeexplore.ieee.org/abstract/document/10900663'
+
+- title: 'Ghosh A, Kundu D, **Chatterjee A**, Ghosh S, “**Guardians of the Quantum GAN**”, In 2025 26th International Symposium on Quality Electronic Design (ISQED), pp. 1-8. IEEE, 2025'
+  venues:
+    - name: 'IEEE ISQED 2025'
+      type: 'conference'
+  links:
+    - label: 'Paper'
+      url: 'https://ieeexplore.ieee.org/abstract/document/11014340'
+
+- title: '**Chatterjee A**, ..., Lubinski T, “**A Comprehensive Cross-Model Framework for Benchmarking the Performance of Quantum Hamiltonian Simulations**”, Abstract in American Physical Society (APS) - Global Physics Summit 2025'
+  venues:
+    - name: 'APS March Meeting 2025'
+      type: 'abstract'
+  links:
+    - label: 'Paper'
+      url: 'https://schedule.aps.org/smt/2025/events/VIR-C01/5'
+
+- title: 'Phalak K, **Chatterjee A**, Ghosh S, “**Quantum Random Access Memory For Dummies**”, Sensors, 23(17), p.7462'
+  venues:
+    - name: 'Sensors 2023'
+      type: 'journal'
+  links:
+    - label: 'Paper'
+      url: 'https://www.mdpi.com/1424-8220/23/17/7462'
+
+- title: '**Chatterjee A**, Ghosh S, “**Magic Mirror on the Wall, How to Benchmark Quantum Error Correction Codes, Overall?**”, In 2024 IEEE International Conference on Quantum Computing and Engineering (QCE), vol. 1, pp. 356-367. IEEE, 2024'
+  venues:
+    - name: 'IEEE Quantum Week 2024'
+      type: 'conference'
+  links:
+    - label: 'Paper'
+      url: 'https://ieeexplore.ieee.org/abstract/document/10821356'
+
+- title: '**Chatterjee A**, Kundu, D, Ghosh S, “**Q-Embroidery: A Study of Weaving Quantum Error Correction into the Fabric of Quantum Classifiers**”, In Proceedings of the Great Lakes Symposium on VLSI 2024, pp. 119-124. 2024'
+  venues:
+    - name: 'ACM GLSVLSI 2024'
+      type: 'conference'
+  links:
+    - label: 'Paper'
+      url: 'https://dl.acm.org/doi/abs/10.1145/3649476.3658750'
+
+- title: 'Bhattacharjee D, ..., **Chatterjee A**, ..., Chattopadhyay A, “**Software Flow for Quantum Computing**”, In International Conference on Computational Technologies and Electronics, pp. 206-227. Springer Nature Switzerland, 2023'
+  venues:
+    - name: 'Springer 2023'
+      type: 'conference'
+  links:
+    - label: 'Paper'
+      url: 'https://link.springer.com/chapter/10.1007/978-3-031-81981-0_18'
+
+- title: 'Das S, **Chatterjee A**, Ghosh S, “**A First Order Survey of Quantum Supply Dynamics and Threat Landscapes**”, In Proceedings of the 12th International Workshop on Hardware and Architectural Support for Security and Privacy, pp. 82-90. 2023'
+  venues:
+    - name: 'ACM HASP 2023'
+      type: 'conference'
+  links:
+    - label: 'Paper'
+      url: 'https://dl.acm.org/doi/abs/10.1145/3623652.3623664'
+
+- title: '**Chatterjee A**, Phalak K, Ghosh S, “**Quantum Error Correction For Dummies**”, In 2023 IEEE International Conference on Quantum Computing and Engineering (QCE), vol. 1, pp. 70-81. IEEE, 2023'
+  venues:
+    - name: 'IEEE Quantum Week 2023'
+      type: 'conference'
+  links:
+    - label: 'Paper'
+      url: 'https://ieeexplore.ieee.org/document/10313604'
+
+- title: '**Chatterjee A**, “**Formulating Support for Superpages to reduce the number of TLB Faults in Contiguous Virtual Memory Space**”, In 2019 IEEE 10th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference, pp. 0708-0715. IEEE, 2019'
+  venues:
+    - name: 'IEEE Xplore 2019'
+      type: 'conference'
+  links:
+    - label: 'Paper'
+      url: 'https://ieeexplore.ieee.org/abstract/document/8993035'
+
+- title: 'Saha, HN, **Chatterjee A**, et al., “**Acceptability Based Clustering Routing Protocol in MANET**”, In 2018 IEEE 9th Annual Information Technology, Electronics and Mobile Communication Conference, pp. 1172-1180. IEEE, 2018'
+  venues:
+    - name: 'IEEE Xplore 2018'
+      type: 'conference'
+  links:
+    - label: 'Paper'
+      url: 'https://ieeexplore.ieee.org/abstract/document/8614916'
+
+- title: 'Bhattacharyya D, **Chatterjee A**, et al., “**A novel approach to energy efficient low cost routing in MANET by reduction in packet size**”, In 2018 IEEE 8th Annual Computing and Communication Workshop and Conference (CCWC), pp. 679-684. IEEE, 2018'
+  venues:
+    - name: 'IEEE Xplore 2018'
+      type: 'conference'
+  links:
+    - label: 'Paper'
+      url: 'https://ieeexplore.ieee.org/abstract/document/8301743'
+
+- title: 'Saha HN, Auddy S, **Chatterjee A**, et al., “**IoT solutions for smart cities**”, In 2017 8th Annual Industrial Automation and Electromechanical Engineering Conference, pp. 74-80. IEEE, 2017'
+  venues:
+    - name: 'IEEE Xplore 2017'
+      type: 'conference'
+  links:
+    - label: 'Paper'
+      url: 'https://ieeexplore.ieee.org/abstract/document/8079565'
+
+- title: 'Saha HN, Auddy S, **Chatterjee A**, et al., “**Pollution control using internet of things (IoT)**”, In 2017 8th Annual Industrial Automation and Electromechanical Engineering Conference, pp. 65-68. IEEE, 2017'
+  venues:
+    - name: 'IEEE Xplore 2017'
+      type: 'conference'
+  links:
+    - label: 'Paper'
+      url: 'https://ieeexplore.ieee.org/abstract/document/8079563'
+
+- title: 'Banerjee S, Mitra B, **Chatterjee A**, Santra A, Chatterjee B, “**Identification of relevant physico chemical properties of amino acids with respect to protein glycosylation prediction**”, In 2015 International Conference and Workshop on Computing and Communication, pp. 1-7. IEEE, 2015'
+  venues:
+    - name: 'IEEE Xplore 2015'
+      type: 'conference'
+  links:
+    - label: 'Paper'
+      url: 'https://ieeexplore.ieee.org/abstract/document/7344520'
