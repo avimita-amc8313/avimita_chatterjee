@@ -7,7 +7,14 @@ author_profile: true
 
 Here’s where I share the latest happenings: from research updates and new publications to talks, conferences, and a few fun milestones along the way.
 
+**Apr 2026:**
+  * 🎤 Delivered a presentation on my paper published at ISQED 2026 in San Francisco, California
+
+**Mar 2026:**
+  * 🎓 Accepted an offer to join the prestigious Berkeley Lab in their NERSC division as a postdoctoral scholar to continue my work in QEC!.
+
 **Jan 2026:**
+  * 📝 "The Art of Optimizing T-Depth for Quantum Error Correction in Large-Scale Quantum Computing" accepted for publication in the 27th International Symposium on Quality Electronic Design (IEEE ISQED 2026)
   * 💼 Joined as a Visiting Assistant Professor in the Computer Science department at the University of West Florida
     
 **Nov 2025:**
