@@ -2,7 +2,7 @@
 
 - title: '**Chatterjee A**, Ghosh, A, Ghosh S, “**The Art of Optimizing T-Depth for Quantum Error Correction in Large-Scale Quantum Computing**”'
   venues:
-    - name: 'arXiv'
+    - name: 'arXiv 2026'
       type: 'arxiv'
     - name: 'ISQED 2026'
       type: 'conference'
@@ -173,7 +173,7 @@
 
 - title: '**Chatterjee A**, Ghosh S, “**Magic Mirror on the Wall, How to Benchmark Quantum Error Correction Codes, Overall?**”, In 2024 IEEE International Conference on Quantum Computing and Engineering (QCE), vol. 1, pp. 356-367. IEEE, 2024'
   venues:
-    - name: 'IEEE Quantum Week / QCE 2025'
+    - name: 'IEEE Quantum Week / QCE 2024'
       type: 'conference'
   links:
     - label: 'Paper'
@@ -223,7 +223,7 @@
 
 - title: '**Chatterjee A**, Phalak K, Ghosh S, “**Quantum Error Correction For Dummies**”, In 2023 IEEE International Conference on Quantum Computing and Engineering (QCE), vol. 1, pp. 70-81. IEEE, 2023'
   venues:
-    - name: 'IEEE Quantum Week / QCE 2025'
+    - name: 'IEEE Quantum Week / QCE 2023'
       type: 'conference'
   links:
     - label: 'Paper'
