@@ -7,6 +7,10 @@ author_profile: true
 
 Here’s a list of courses I have taught and assisted in:
 
+**University of West Florida:**
+  * COP 4990 _(undergraduate)_: Quantum Computing for All: A Beginner’s Introduction _(Instructor)_ -- _Sp'26_
+  * COP 3014 _(undergraduate)_: Algorithm and Program Design _(Instructor)_ -- _Sp'26_
+
 **The Pennsylvania State University:**
   * CMPSC 131 _(undergraduate)_: Programming and Computation I: Fundamentals _(Teaching Assistant)_ -- _Fa'25_
   * CMPEN/EE 497 _(undergraduate)_: Computing with Commercial Quantum Computers _(Acting Co-Instructor)_ -- _Fa'24_
