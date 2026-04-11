@@ -29,8 +29,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Quantum Error Correction, Quantum Benchmarking and Quantum Algorithms & Applications"
   location         : "California, USA"
-  employer         : "The Berkeley Lab"
-  university       : "The Pennsylvania State University"
+  employer         : "NERSC @ Berkeley Lab"
+  university       : "Penn State University"
   uri              : # URL
   email            : "amc8313@psu.edu" 
 
