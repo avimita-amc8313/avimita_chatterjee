@@ -17,24 +17,23 @@ A brief description of this project category goes here. You can explain the main
 
 ---
 
-## Another Project Category
+## Spatiotemporal Optimization in Quantum Error Correction
 
 A brief description of this category goes here.
 
 <p align="center">
-  <img src="/images/project2_fig1.jpg" width="30%" style="margin: 10px;">
-  <img src="/images/project2_fig2.jpg" width="30%" style="margin: 10px;">
-  <img src="/images/project2_fig3.jpg" width="30%" style="margin: 10px;">
+  <img src="{{ '/images/publication/prometheus_ancilla.png' | relative_url }}" style="height: 220px; width: auto; margin: 10px;">
+  <img src="{{ '/images/publication/tile_step_opt.png' | relative_url }}" style="height: 220px; width: auto; margin: 10px;">
 </p>
 
 ---
 
-## Another Project Category
+## Quantum Benchmarking
 
 A brief description of this category goes here.
 
 <p align="center">
-  <img src="/images/project3_fig1.jpg" width="30%" style="margin: 10px;">
-  <img src="/images/project3_fig2.jpg" width="30%" style="margin: 10px;">
-  <img src="/images/project3_fig3.jpg" width="30%" style="margin: 10px;">
+  <img src="{{ '/images/publication/hamil_tqe.png' | relative_url }}" style="height: 220px; width: auto; margin: 10px;">
+  <img src="{{ '/images/publication/magic_mirror.png' | relative_url }}" style="height: 220px; width: auto; margin: 10px;">
+  <img src="{{ '/images/publication/qedc_observ.png' | relative_url }}" style="height: 220px; width: auto; margin: 10px;">
 </p>
