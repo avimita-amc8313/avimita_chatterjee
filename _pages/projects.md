@@ -11,8 +11,8 @@ These are some of the broad classifications of projects that I usually work on. 
 A brief description of this project category goes here. You can explain the main problems you work on, the methods you use, and the kinds of outcomes or applications you care about.
 
 <p align="center">
-  <img src="/images/publication/book_cafe.jpeg" width="30%" style="margin: 10px;">
-  <img src="/images/publication/lattice_surgery.png" width="30%" style="margin: 10px;">
+  <img src="{{ base_path }}/images/publication/book_cafe.jpeg" width="30%" style="margin: 10px;">
+  <img src="{{ base_path }}/images/publication/lattice_surgery.png" width="30%" style="margin: 10px;">
 </p>
 
 ---
