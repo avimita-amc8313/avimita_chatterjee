@@ -22,7 +22,7 @@ A brief description of this project category goes here. You can explain the main
 A brief description of this category goes here. (ancilla, tile_step)
 
 <p align="center">
-  <img src="{{ '/images/publication/prometheus_ancilla.png' | relative_url }}" style="height: 165px; width: auto; margin: 2px;">
+  <img src="{{ '/images/publication/ancilla_reuse.png' | relative_url }}" style="height: 165px; width: auto; margin: 2px;">
   <img src="{{ '/images/publication/tile_step_opt.png' | relative_url }}" style="height: 165px; width: auto; margin: 2px;">
 </p>
 
@@ -63,7 +63,7 @@ A brief description of this category goes here.
 A brief description of this category goes here.
 
 <p align="center">
-  <img src="{{ '/images/publication/qec_dummies.png' | relative_url }}" style="height: 165px; width: auto; margin: 2px;">
+  <img src="{{ '/images/publication/qec_dummies_2.png' | relative_url }}" style="height: 165px; width: auto; margin: 2px;">
   <img src="{{ '/images/publication/qram_dummies.png' | relative_url }}" style="height: 165px; width: auto; margin: 2px;">
-  <img src="{{ '/images/publication/lattice_surgery.png' | relative_url }}" style="height: 165px; width: auto; margin: 2px;">
+  <img src="{{ '/images/publication/lattice_surgery_2.png' | relative_url }}" style="height: 165px; width: auto; margin: 2px;">
 </p>
