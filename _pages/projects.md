@@ -47,7 +47,7 @@ This project area broadly explores the design and application of quantum algorit
 <p align="center">
   <img src="{{ '/images/publication/qgan.png' | relative_url }}" style="height: 200px; width: auto; margin: 2px;">
   <img src="{{ '/images/publication/dynamic_snapshot.png' | relative_url }}" style="height: 200px; width: auto; margin: 2px;">
-  <img src="{{ '/images/publication/snapshot.png' | relative_url }}" style="height: 200px; width: auto; margin: 2px;">
+  <img src="{{ '/images/publication/snapshot.png' | relative_url }}" style="height: 300px; width: auto; margin: 2px;">
 </p>
 
 ## Quantum Computing Workflows and Ecosystem
