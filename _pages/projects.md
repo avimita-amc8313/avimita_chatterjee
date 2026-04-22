@@ -1,5 +1,5 @@
 ---
-layout: talk
+layout: cv-layout
 title: "Projects"
 permalink: /projects/
 author_profile: true
