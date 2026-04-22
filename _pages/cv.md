@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 title: "View My Full Résumé"
 permalink: /cv/
 author_profile: true
