@@ -14,8 +14,6 @@ I recently completed my Ph.D. in Computer Science and Engineering at The Pennsyl
 
 My journey into QEC began with a deep curiosity about quantum technologies and a strong desire to make their potential accessible to more people. As a computer scientist entering a field traditionally dominated by physics and mathematics, I quickly realized the value of diverse perspectives. My goal is to break down the barriers around Quantum Computing and make it more approachable for researchers from a variety of backgrounds.
 
-Quantum Error Correction is one of the most essential yet complex components of quantum computing. It addresses the fragile nature of quantum information and is crucial for building fault-tolerant quantum systems. My research is focused on optimizing the use of space and time resources in QEC, reducing the overhead associated with error correction protocols, and designing scalable, efficient solutions.
-
 Explore the key sections of my academic portfolio:
 * <i class="fas fa-newspaper"></i> [News](https://avimita-amc8313.github.io/avimita_chatterjee/news/) – Updates and announcements on research, events, and milestones
 * <i class="fas fa-microscope"></i> [Research](https://avimita-amc8313.github.io/avimita_chatterjee/research/) – Broad research areas, project themes, and selected directions of work
