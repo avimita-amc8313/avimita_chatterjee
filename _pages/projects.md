@@ -9,6 +9,18 @@ These are some of the broad classifications of projects that I usually work on. 
 
 ---
 
+## The "For Dummies" Series
+
+This series aims to provide accessible and intuitive introductions to key topics in quantum computing, with an emphasis on clarity and broad accessibility. The works in this category distill complex ideas into simplified explanations that can be understood without extensive background in quantum physics or advanced mathematics. The current series includes three papers covering quantum error correction (QEC), lattice surgery, and quantum random access memory (QRAM). This is an ongoing effort, with plans to expand the series to include additional “for dummies” papers on other important areas of quantum computing.
+
+<p align="center">
+  <img src="{{ '/images/publication/qec_dummies_2.png' | relative_url }}" style="height: 200px; width: auto; margin: 2px;">
+  <img src="{{ '/images/publication/lattice_surgery_2.png' | relative_url }}" style="height: 200px; width: auto; margin: 2px;">
+  <img src="{{ '/images/publication/qram_dummies.png' | relative_url }}" style="height: 200px; width: auto; margin: 2px;">
+</p>
+
+---
+
 ## Compilation in Large-Scale Fault-Tolerant Quantum Computing
 
 This project area broadly focuses on the compilation and system-level organization of large fault-tolerant quantum workloads. It includes work on architectural design, resource allocation, workload mapping, and execution strategies that are relevant to practical large-scale quantum computation. More generally, this category examines how complex quantum applications can be supported efficiently on realistic fault-tolerant platforms, while accounting for important tradeoffs in scalability, performance, and flexibility.
@@ -67,14 +79,3 @@ This project area broadly explores the software, systems, and infrastructure und
 
 ---
 
-## The "For Dummies" Series
-
-This series aims to provide accessible and intuitive introductions to key topics in quantum computing, with an emphasis on clarity and broad accessibility. The works in this category distill complex ideas into simplified explanations that can be understood without extensive background in quantum physics or advanced mathematics. The current series includes three papers covering quantum error correction (QEC), lattice surgery, and quantum random access memory (QRAM). This is an ongoing effort, with plans to expand the series to include additional “for dummies” papers on other important areas of quantum computing.
-
-<p align="center">
-  <img src="{{ '/images/publication/qec_dummies_2.png' | relative_url }}" style="height: 200px; width: auto; margin: 2px;">
-  <img src="{{ '/images/publication/lattice_surgery_2.png' | relative_url }}" style="height: 200px; width: auto; margin: 2px;">
-  <img src="{{ '/images/publication/qram_dummies.png' | relative_url }}" style="height: 200px; width: auto; margin: 2px;">
-</p>
-
----
