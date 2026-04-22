@@ -127,14 +127,15 @@ author_profile: true
   background: #7b1fa2 !important;
 }
 
-#pubpage .badge-thesis {
+#pubpage .badge-default {
   background: #4a4a4a !important;
   color: #ffffff !important;
 }
 
-#pubpage .badge-default {
+/* #pubpage .badge-default {
   background: #6c757d !important;
-}
+} */
+  
 </style>
 
 {% include base_path %}
@@ -149,7 +150,6 @@ author_profile: true
     <span class="pub-badge badge-conference">Conference Proceeding</span>
     <span class="pub-badge badge-abstract">Conference Abstract</span>
     <span class="pub-badge badge-book">Book / Book Chapter</span>
-    <span class="pub-badge badge-thesis">Thesis</span>
   </div>
 
   <div class="publication-item pub-legend-divider"></div>
@@ -175,8 +175,6 @@ author_profile: true
                   {% assign venue_class = "badge-abstract" %}
                 {% when "book" %}
                   {% assign venue_class = "badge-book" %}
-                {% when "thesis" %}
-                  {% assign venue_class = "badge-thesis" %}
                 {% else %}
                   {% assign venue_class = "badge-default" %}
               {% endcase %}
