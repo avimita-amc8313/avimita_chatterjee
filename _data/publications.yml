@@ -5,7 +5,7 @@
     - name: 'Ph.D. Thesis 2026'
       type: 'book'
   links:
-    - label: 'Ph.D. Dissertation Defense Slides'
+    - label: 'View Ph.D. Dissertation Defense Slides'
       url: 'https://1drv.ms/p/c/e59828bc6d482817/IQC7dLxsmtJfQ5UfmMghOsH8AWD7P96Ec5ydhlTqgDU_hG4?e=qx7jcQ'
 
 # ############################################################################################
@@ -17,7 +17,7 @@
     - name: 'ISQED 2026'
       type: 'conference'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://arxiv.org/abs/2503.06045'
 
 # ############################################################################################
@@ -27,7 +27,7 @@
     - name: 'ASP-DAC 2026'
       type: 'conference'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://ieeexplore.ieee.org/abstract/document/11420525'
 
 # ############################################################################################
@@ -37,7 +37,7 @@
     - name: 'QAISys 2026'
       type: 'abstract'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://quantumos2024.yalepages.org/assets/QAIsys-Program-DraftMarch30.pdf'
 
 # ############################################################################################
@@ -47,8 +47,10 @@
     - name: 'Springer Nature 2026'
       type: 'book'
   links:
-    - label: 'Book Chapter'
+    - label: 'Read Book Chapter'
       url: 'https://link.springer.com/chapter/10.1007/978-3-032-09303-5_6'
+    - label: 'Access Full Book'
+      url: 'https://link.springer.com/book/10.1007/978-3-032-09303-5'
 
 # ############################################################################################
 
@@ -57,7 +59,7 @@
     - name: 'Applied Sciences 2025'
       type: 'journal'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://www.mdpi.com/2076-3417/15/8/4555'
 
 # ############################################################################################
@@ -69,7 +71,7 @@
     - name: 'APS March Meeting 2025'
       type: 'abstract'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://ieeexplore.ieee.org/abstract/document/10949677'
       
 # ############################################################################################
@@ -79,7 +81,7 @@
     - name: 'arXiv 2025'
       type: 'arxiv'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://arxiv.org/abs/2510.08469'
 
 # ############################################################################################
@@ -89,7 +91,7 @@
     - name: 'Sensors 2025'
       type: 'journal'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://www.mdpi.com/1424-8220/25/6/1854'
 
 # ############################################################################################
@@ -99,7 +101,7 @@
     - name: 'arXiv 2025'
       type: 'arxiv'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://arxiv.org/abs/2504.21250'
 
 # ############################################################################################
@@ -109,7 +111,7 @@
     - name: 'arXiv 2025'
       type: 'arxiv'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://arxiv.org/abs/2504.14459'
 
 # ############################################################################################
@@ -119,7 +121,7 @@
     - name: 'Entropy 2025'
       type: 'journal'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://www.mdpi.com/1099-4300/27/8/812'
 
 # ############################################################################################
@@ -136,7 +138,7 @@
     - name: 'IEEE Quantum Week / QCE 2025'
       type: 'conference'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://ieeexplore.ieee.org/abstract/document/11250252'
 
 # ############################################################################################
@@ -146,7 +148,7 @@
     - name: 'ISQED 2025'
       type: 'conference'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://ieeexplore.ieee.org/abstract/document/11014328'
 
 # ############################################################################################
@@ -156,7 +158,7 @@
     - name: 'arXiv 2025'
       type: 'arxiv'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://arxiv.org/abs/2502.11253'  
 
 # ############################################################################################
@@ -166,7 +168,7 @@
     - name: 'VLSID 2025'
       type: 'conference'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://ieeexplore.ieee.org/abstract/document/10900663'
 
 # ############################################################################################
@@ -176,7 +178,7 @@
     - name: 'ISQED 2025'
       type: 'conference'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://ieeexplore.ieee.org/abstract/document/11014340'
 
 # ############################################################################################
@@ -186,7 +188,7 @@
     - name: 'IEEE Quantum Week / QCE 2024'
       type: 'conference'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://ieeexplore.ieee.org/abstract/document/10821356'
 
 # ############################################################################################
@@ -196,7 +198,7 @@
     - name: 'GLSVLSI 2024'
       type: 'conference'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://dl.acm.org/doi/abs/10.1145/3649476.3658750'
 
 # ############################################################################################
@@ -206,7 +208,7 @@
     - name: 'ICCTE 2023'
       type: 'conference'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://link.springer.com/chapter/10.1007/978-3-031-81981-0_18'
 
 # ############################################################################################
@@ -216,7 +218,7 @@
     - name: 'HASP 2023'
       type: 'conference'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://dl.acm.org/doi/abs/10.1145/3623652.3623664'
 
 # ############################################################################################
@@ -226,7 +228,7 @@
     - name: 'Sensors 2023'
       type: 'journal'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://www.mdpi.com/1424-8220/23/17/7462'
 
 # ############################################################################################
@@ -236,7 +238,7 @@
     - name: 'IEEE Quantum Week / QCE 2023'
       type: 'conference'
   links:
-    - label: 'Paper'
+    - label: 'Read Paper'
       url: 'https://ieeexplore.ieee.org/document/10313604'
 
 # ############################################################################################
@@ -246,7 +248,7 @@
 #     - name: 'IEEE Xplore 2019'
 #       type: 'conference'
 #   links:
-#     - label: 'Paper'
+#     - label: 'Read Paper'
 #       url: 'https://ieeexplore.ieee.org/abstract/document/8993035'
 
 # ############################################################################################
@@ -256,7 +258,7 @@
 #     - name: 'IEEE Xplore 2018'
 #       type: 'conference'
 #   links:
-#     - label: 'Paper'
+#     - label: 'Read Paper'
 #       url: 'https://ieeexplore.ieee.org/abstract/document/8614916'
 
 # ############################################################################################
@@ -266,7 +268,7 @@
 #     - name: 'IEEE Xplore 2018'
 #       type: 'conference'
 #   links:
-#     - label: 'Paper'
+#     - label: 'Read Paper'
 #       url: 'https://ieeexplore.ieee.org/abstract/document/8301743'
 
 # ############################################################################################
@@ -276,7 +278,7 @@
 #     - name: 'IEEE Xplore 2017'
 #       type: 'conference'
 #   links:
-#     - label: 'Paper'
+#     - label: 'Read Paper'
 #       url: 'https://ieeexplore.ieee.org/abstract/document/8079565'
 
 # ############################################################################################
@@ -286,7 +288,7 @@
 #     - name: 'IEEE Xplore 2017'
 #       type: 'conference'
 #   links:
-#     - label: 'Paper'
+#     - label: 'Read Paper'
 #       url: 'https://ieeexplore.ieee.org/abstract/document/8079563'
 
 # ############################################################################################
@@ -296,7 +298,7 @@
 #     - name: 'IEEE Xplore 2015'
 #       type: 'conference'
 #   links:
-#     - label: 'Paper'
+#     - label: 'Read Paper'
 #       url: 'https://ieeexplore.ieee.org/abstract/document/7344520'
 
 # ############################################################################################
