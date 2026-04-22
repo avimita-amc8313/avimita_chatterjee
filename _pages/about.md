@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify; text-justify: inter-word;">
+<div style="text-align: justify;">
   
 My name is Avimita Chatterjee, and I am an incoming Postdoctoral Scholar in the NERSC Division at Lawrence Berkeley National Laboratory (Berkeley Lab), starting in May 2026. This position is funded through the Department of Energy Quantum Systems Accelerator. I am currently serving as a Visiting Assistant Professor in the Computer Science Department at the University of West Florida.
 
