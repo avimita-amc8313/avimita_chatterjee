@@ -1,5 +1,15 @@
 # ############################################################################################
 
+- title: '**Chatterjee A**, “**Spatiotemporal Optimization and Analysis of Resource Utilization in Quantum Error Correction**”, The Pennsylvania State University, 2026.'
+  venues:
+    - name: 'Ph.D. Thesis 2026'
+      type: 'book'
+  links:
+    - label: 'Ph.D. Dissertation Defense Slides'
+      url: 'https://1drv.ms/p/c/e59828bc6d482817/IQC7dLxsmtJfQ5UfmMghOsH8AWD7P96Ec5ydhlTqgDU_hG4?e=qx7jcQ'
+
+# ############################################################################################
+
 - title: '**Chatterjee A**, Ghosh, A, Ghosh S, “**The Art of Optimizing T-Depth for Quantum Error Correction in Large-Scale Quantum Computing**”'
   venues:
     - name: 'arXiv 2026'
