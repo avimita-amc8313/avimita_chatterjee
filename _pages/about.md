@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<div style="text-align: justify; text-justify: inter-word;">
+  
 My name is Avimita Chatterjee, and I am an incoming Postdoctoral Scholar in the NERSC Division at Lawrence Berkeley National Laboratory (Berkeley Lab), starting in May 2026. This position is funded through the Department of Energy Quantum Systems Accelerator. I am currently serving as a Visiting Assistant Professor in the Computer Science Department at the University of West Florida.
 
 I recently completed my Ph.D. in Computer Science and Engineering at The Pennsylvania State University. My doctoral research focused on Quantum Computing, with a particular emphasis on Quantum Error Correction (QEC). During the summer of 2024, I also had the opportunity to intern at the Quantum Economic Development Consortium (QED-C), managed by Stanford Research Institute (SRI) International. [Confusion, Clarity, and Quantum Highs: A Summer at the QED-C](https://quantumconsortium.org/publication/confusion-clarity-and-quantum-highs-a-summer-at-the-qed-c/?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8PhycQDLFWXNtbEp4AiRBcgeNSkjhmpyH_tognbDJEwxPOMy-P9j7CxpShx7e591GssGVW).
@@ -45,3 +48,5 @@ If you are curious about quantum computing, are considering research in this fie
 If you are facing challenges in your academic journey, whether related to research, career direction, or personal struggles, I am always open to listening and helping in any way I can. You do not have to go through it alone. I believe in building a community where support and guidance are freely shared. Feel free to shoot me an email at amc8313[at]psu[dot]edu.
 
 If you’re considering a PhD or are already on that journey, I highly recommend checking out Episode 38 of The Genesis of Tomorrow podcast, where I was invited to share my experience — available on [YouTube](https://www.youtube.com/watch?v=OKRcqTDhUn8&ab_channel=GenesisofTomorrow) and [Spotify](https://open.spotify.com/episode/1VerV8ezzKDT9BHCfkSPJZ?si=XlXsYIvlQ9ScPTIKzCQuQw&nd=1&dlsi=bbcd2f03861e4032).
+
+</div>
