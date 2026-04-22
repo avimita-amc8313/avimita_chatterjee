@@ -23,7 +23,7 @@ This project area broadly focuses on the compilation and system-level organizati
 This project area broadly focuses on the spatiotemporal optimization of fault-tolerant quantum error correction. It includes work on reducing qubit overhead, improving layout and resource organization, and developing compilation and execution strategies that make better use of space and time in large-scale quantum systems. At a broader level, this category is concerned with understanding and managing the tradeoffs that shape practical, scalable, and resource-efficient fault-tolerant quantum computation.
 
 <p align="center">
-  <img src="{{ '/images/publication/ancilla_reuse.png' | relative_url }}" style="height: 175px; width: auto; margin: 2px;">
+  <img src="{{ '/images/publication/prometheus_ancilla.png' | relative_url }}" style="height: 175px; width: auto; margin: 2px;">
   <img src="{{ '/images/publication/tile_step_opt.png' | relative_url }}" style="height: 175px; width: auto; margin: 2px;">
 </p>
 
