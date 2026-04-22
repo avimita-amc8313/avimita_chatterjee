@@ -1,5 +1,5 @@
 ---
-layout: cv-layout
+layout: compress
 title: "Projects"
 permalink: /projects/
 author_profile: true
