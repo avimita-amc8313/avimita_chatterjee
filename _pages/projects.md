@@ -8,7 +8,6 @@ author_profile: true
 These are some of the broad classifications of projects that I usually work on. For more details on individual projects, check out my [publications](https://avimita-amc8313.github.io/avimita_chatterjee/publications/).
 
 ---
----
 
 ## Compilation in Large-Scale Fault-Tolerant Quantum Computing
 
