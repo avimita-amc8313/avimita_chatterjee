@@ -9,9 +9,11 @@ redirect_from:
 ---
 My name is Avimita Chatterjee, and I am an incoming Postdoctoral Scholar in the NERSC Division at Lawrence Berkeley National Laboratory (Berkeley Lab), starting in May 2026. This position is funded through the Department of Energy Quantum Systems Accelerator. I am currently serving as a Visiting Assistant Professor in the Computer Science Department at the University of West Florida.
 
-I recently completed my Ph.D. in Computer Science and Engineering at The Pennsylvania State University. My doctoral research focused on Quantum Computing, with a particular emphasis on Quantum Error Correction (QEC). Under the guidance of Professor Swaroop Ghosh, my dissertation, titled _“Spatiotemporal Optimization and Analysis of Resource Utilization in Quantum Error Correction”_,explored strategies for building more resilient and scalable quantum systems. [View Dissertation Defense Slides (PPTX)](https://1drv.ms/p/c/e59828bc6d482817/IQC7dLxsmtJfQ5UfmMghOsH8AWD7P96Ec5ydhlTqgDU_hG4?e=qx7jcQ).
+I recently completed my Ph.D. in Computer Science and Engineering at The Pennsylvania State University. My doctoral research focused on Quantum Computing, with a particular emphasis on Quantum Error Correction (QEC). During the summer of 2024, I also had the opportunity to intern at the Quantum Economic Development Consortium (QED-C), managed by Stanford Research Institute (SRI) International.
 
 My journey into QEC began with a deep curiosity about quantum technologies and a strong desire to make their potential accessible to more people. As a computer scientist entering a field traditionally dominated by physics and mathematics, I quickly realized the value of diverse perspectives. My goal is to break down the barriers around Quantum Computing and make it more approachable for researchers from a variety of backgrounds.
+
+Quantum Error Correction is one of the most essential yet complex components of quantum computing. It addresses the fragile nature of quantum information and is crucial for building fault-tolerant quantum systems. My research is focused on optimizing the use of space and time resources in QEC, reducing the overhead associated with error correction protocols, and designing scalable, efficient solutions.
 
 Explore the key sections of my academic portfolio:
 * <i class="fas fa-newspaper"></i> [News](https://avimita-amc8313.github.io/avimita_chatterjee/news/) – Updates and announcements on research, events, and milestones
@@ -19,22 +21,6 @@ Explore the key sections of my academic portfolio:
 * <i class="fas fa-book-open"></i> [Publications](https://avimita-amc8313.github.io/avimita_chatterjee/publications/) – Peer-reviewed papers, manuscripts, and selected preprints
 * <i class="fas fa-video"></i> [Media](https://avimita-amc8313.github.io/avimita_chatterjee/media/) - Recordings of interviews, podcasts, and public talks
 * <i class="fas fa-chalkboard-teacher"></i> [Teaching](https://avimita-amc8313.github.io/avimita_chatterjee/teaching/) – Courses and academic mentoring
-
-Research in Quantum Error Correction
-======
-Quantum Error Correction is one of the most essential yet complex components of quantum computing. It addresses the fragile nature of quantum information and is crucial for building fault-tolerant quantum systems. My research is focused on optimizing the use of space and time resources in QEC, reducing the overhead associated with error correction protocols, and designing scalable, efficient solutions.
-
-Throughout my work, I have authored numerous research papers. These publications form the foundation of my dissertation and represent years of detailed exploration into the practical challenges and opportunities in QEC. In recognition of my work, I was honored with a nomination for the Outstanding Research Assistant Award at Penn State.
-
-
-Internship at the QED-C, managed by SRI International
-======
-During the summer of 2024, I had the opportunity to intern at the Quantum Economic Development Consortium (QED-C), managed by Stanford Research Institute (SRI) International. My project focused on benchmarking the performance of quantum Hamiltonians, a topic central to understanding and improving quantum simulations.
-
-The result of this work was a paper titled “A Comprehensive Cross-Model Framework for Benchmarking the Performance of Quantum Hamiltonian Simulations.” I served as the lead author of this paper, which was accepted for presentation at the American Physical Society (APS) Global Physics Summit 2025 and published in the IEEE Transactions on Quantum Engineering journal. This project not only expanded my research expertise but also marked a significant milestone in my academic career.
-
-You can read more about my internship experience in a featured article on the QED-C blog [here](https://quantumconsortium.org/publication/confusion-clarity-and-quantum-highs-a-summer-at-the-qed-c/?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8PhycQDLFWXNtbEp4AiRBcgeNSkjhmpyH_tognbDJEwxPOMy-P9j7CxpShx7e591GssGVW).
-
 
 Making Quantum Knowledge Accessible
 ======
