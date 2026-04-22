@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: archive
 title: "Welcome to Avimita's corner of the web!"
 author_profile: true
 redirect_from: 
