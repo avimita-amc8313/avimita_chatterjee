@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: archive-taaxonomy
 title: "Projects"
 permalink: /projects/
 author_profile: true
