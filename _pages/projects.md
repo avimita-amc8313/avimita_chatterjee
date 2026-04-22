@@ -26,8 +26,8 @@ This series aims to provide accessible and intuitive introductions to key topics
 This project area broadly focuses on the compilation and system-level organization of large fault-tolerant quantum workloads. It includes work on architectural design, resource allocation, workload mapping, and execution strategies that are relevant to practical large-scale quantum computation. More generally, this category examines how complex quantum applications can be supported efficiently on realistic fault-tolerant platforms, while accounting for important tradeoffs in scalability, performance, and flexibility.
 
 <p align="center">
-  <img src="{{ '/images/publication/multi_prog.png' | relative_url }}" style="height: 300px; width: auto; margin: 5px;">
-  <img src="{{ '/images/publication/annular_arch.png' | relative_url }}" style="height: 300px; width: auto; margin: 5px;">
+  <img src="{{ '/images/publication/multi_prog.png' | relative_url }}" style="height: 300px; width: auto; margin: 10px;">
+  <img src="{{ '/images/publication/annular_arch.png' | relative_url }}" style="height: 300px; width: auto; margin: 10px;">
 </p>
 
 ---
@@ -37,8 +37,8 @@ This project area broadly focuses on the compilation and system-level organizati
 This project area broadly focuses on the spatiotemporal optimization of fault-tolerant quantum error correction. It includes work on reducing qubit overhead, improving layout and resource organization, and developing compilation and execution strategies that make better use of space and time in large-scale quantum systems. At a broader level, this category is concerned with understanding and managing the tradeoffs that shape practical, scalable, and resource-efficient fault-tolerant quantum computation.
 
 <p align="center">
-  <img src="{{ '/images/publication/prometheus_ancilla.png' | relative_url }}" style="height: 175px; width: auto; margin: 5px;">
-  <img src="{{ '/images/publication/tile_step_opt.png' | relative_url }}" style="height: 175px; width: auto; margin: 5px;">
+  <img src="{{ '/images/publication/prometheus_ancilla.png' | relative_url }}" style="height: 175px; width: auto; margin: 10px;">
+  <img src="{{ '/images/publication/tile_step_opt.png' | relative_url }}" style="height: 175px; width: auto; margin: 10px;">
 </p>
 
 ---
@@ -61,9 +61,9 @@ This project area broadly focuses on the benchmarking and characterization of qu
 This project area broadly explores the design and application of quantum algorithms in a variety of computational settings. It includes work on developing new algorithmic ideas, studying their performance, and adapting them to realistic hardware, noise, and resource constraints. At a broader level, this category is concerned with how quantum methods can be translated into practical computational tools and how their capabilities can be evaluated across different problem domains and application contexts.
 
 <p align="center">
-  <img src="{{ '/images/publication/qgan.png' | relative_url }}" style="height: 200px; width: auto; margin: 5px;">
-  <img src="{{ '/images/publication/dynamic_snapshot.png' | relative_url }}" style="height: 200px; width: auto; margin: 5px;">
-  <img src="{{ '/images/publication/snapshot.png' | relative_url }}" style="height: 300px; width: auto; margin: 5px;">
+  <img src="{{ '/images/publication/qgan.png' | relative_url }}" style="height: 200px; width: auto; margin: 10px;">
+  <img src="{{ '/images/publication/dynamic_snapshot.png' | relative_url }}" style="height: 200px; width: auto; margin: 10px;">
+  <img src="{{ '/images/publication/snapshot.png' | relative_url }}" style="height: 300px; width: auto; margin: 10px;">
 </p>
 
 ---
@@ -73,8 +73,8 @@ This project area broadly explores the design and application of quantum algorit
 This project area broadly explores the software, systems, and infrastructure underlying quantum computing. It includes work on programming models, compilation toolchains, and design automation flows, as well as studies of how these components come together in practical end-to-end workflows. At a broader level, this category considers the structure and evolution of the quantum computing ecosystem, including system integration, scalability, and other high-level challenges that shape the development of quantum technologies.
 
 <p align="center">
-  <img src="{{ '/images/publication/supply.png' | relative_url }}" style="height: 200px; width: auto; margin: 5px;">
-  <img src="{{ '/images/publication/software_flow.png' | relative_url }}" style="height: 200px; width: auto; margin: 5px;">
+  <img src="{{ '/images/publication/supply.png' | relative_url }}" style="height: 200px; width: auto; margin: 10px;">
+  <img src="{{ '/images/publication/software_flow.png' | relative_url }}" style="height: 200px; width: auto; margin: 10px;">
 </p>
 
 ---
