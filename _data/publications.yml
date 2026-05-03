@@ -54,7 +54,7 @@
 
 - title: 'Ghosh A, **Chatterjee A**, Ghosh S, “**Beyond Static Floorplans: Workload-Aware Resource Management for Fault-Tolerant Quantum Systems**”, NSF Workshop on Systems Research at the Quantum-AI Frontier – OS, Fault Tolerance, and Edge Integration'
   venues:
-    - name: 'QAISys 2026'
+    - name: 'NSF QAISys 2026'
       type: 'abstract'
   links:
     - label: 'Read Paper'
