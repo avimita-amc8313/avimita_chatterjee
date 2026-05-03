@@ -10,6 +10,26 @@
 
 # ############################################################################################
 
+- title: 'Ghosh, A, **Chatterjee A**, Ghosh S, “**No Tile Left Behind: Multiprogramming for Surface-Code Architectures**”'
+  venues:
+    - name: 'arXiv 2026'
+      type: 'arxiv'
+  links:
+    - label: 'Read Paper'
+      url: 'https://arxiv.org/abs/2604.25976'
+
+# ############################################################################################
+
+- title: 'Ghosh, A, **Chatterjee A**, Ghosh S, “**Toward designing workload-aware Surface Code Architectures**”'
+  venues:
+    - name: 'arXiv 2026'
+      type: 'arxiv'
+  links:
+    - label: 'Read Paper'
+      url: 'https://arxiv.org/abs/2604.19855'
+
+# ############################################################################################
+
 - title: '**Chatterjee A**, Ghosh, A, Ghosh S, “**The Art of Optimizing T-Depth for Quantum Error Correction in Large-Scale Quantum Computing**”'
   venues:
     - name: 'arXiv 2026'
