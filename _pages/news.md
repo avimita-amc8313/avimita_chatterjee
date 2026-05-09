@@ -7,6 +7,9 @@ author_profile: true
 
 Here’s where I share the latest happenings: from research updates and new publications to talks, conferences, and a few fun milestones along the way.
 
+**May 2026:**
+  * 💼 Joined as a Posdoctoral Scholar in the AMCR & NERSC division at the Berkely Lab
+
 **Apr 2026:**
   * 🎤 Delivered a presentation on my paper published at ISQED 2026 in San Francisco, California
 
