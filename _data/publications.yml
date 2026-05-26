@@ -5,6 +5,8 @@
     - name: 'Ph.D. Thesis 2026'
       type: 'thesis'
   links:
+    - label: 'Read Thesis'
+      url: 'https://etda.libraries.psu.edu/catalog/19571amc8313'
     - label: 'View Ph.D. Dissertation Defense Slides'
       url: 'https://1drv.ms/p/c/e59828bc6d482817/IQC7dLxsmtJfQ5UfmMghOsH8AWD7P96Ec5ydhlTqgDU_hG4?e=qx7jcQ'
 
