@@ -44,7 +44,9 @@
       }
     }
     
-    var url = 'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent('https://scholar.google.com/citations?user=' + scholarId + '&hl=en');
+    // var url = 'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent('https://scholar.google.com/citations?user=' + scholarId + '&hl=en');
+    var scholarUrl = 'https://scholar.google.com/citations?user=' + scholarId + '&hl=en';
+    var url = 'https://corsproxy.io/?' + encodeURIComponent(scholarUrl);
     
     fetch(url)
       .then(function(r) { return r.text(); })
@@ -52,7 +54,7 @@
         var doc = new DOMParser().parseFromString(html, 'text/html');
         var stats = doc.querySelectorAll('.gsc_rsb_std');
         
-        if (stats.length >= 3) {
+        if (stats.length >= 5) {
           var citations = stats[0].textContent.trim();
           var hIndex = stats[2].textContent.trim();
           var i10Index = stats[4] ? stats[4].textContent.trim() : 'N/A';
