@@ -1,5 +1,24 @@
 # ############################################################################################
 
+- title: 'Ghosh, A, **Chatterjee A**, Ghosh S, “**Ring Around the Ancilla: A Workload-Aware FTQC Architecture**”'
+  venues:
+    - name: 'IEEE / ACM MICRO 2026'
+      type: 'conference'
+      
+# ############################################################################################
+
+- title: 'Ghosh, A, **Chatterjee A**, Ghosh S, “**No Tile Left Behind: Multiprogramming for Surface-Code Architectures**”'
+  venues:
+    - name: 'arXiv 2026'
+      type: 'arxiv'
+    - name: 'IEEE Quantum Week / QCE 2025'
+      type: 'conference'
+  links:
+    - label: 'Read Paper'
+      url: 'https://arxiv.org/abs/2604.25976'
+
+# ############################################################################################
+
 - title: '**Chatterjee A**, “**Spatiotemporal Optimization and Analysis of Resource Utilization in Quantum Error Correction**”, The Pennsylvania State University, 2026.'
   venues:
     - name: 'Ph.D. Thesis 2026'
@@ -9,16 +28,6 @@
       url: 'https://etda.libraries.psu.edu/catalog/19571amc8313'
     - label: 'View Ph.D. Dissertation Defense Slides'
       url: 'https://1drv.ms/p/c/e59828bc6d482817/IQC7dLxsmtJfQ5UfmMghOsH8AWD7P96Ec5ydhlTqgDU_hG4?e=qx7jcQ'
-
-# ############################################################################################
-
-- title: 'Ghosh, A, **Chatterjee A**, Ghosh S, “**No Tile Left Behind: Multiprogramming for Surface-Code Architectures**”'
-  venues:
-    - name: 'arXiv 2026'
-      type: 'arxiv'
-  links:
-    - label: 'Read Paper'
-      url: 'https://arxiv.org/abs/2604.25976'
 
 # ############################################################################################
 
