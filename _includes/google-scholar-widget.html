@@ -44,9 +44,7 @@
       }
     }
     
-    // var url = 'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent('https://scholar.google.com/citations?user=' + scholarId + '&hl=en');
     var scholarUrl = 'https://scholar.google.com/citations?user=' + scholarId + '&hl=en';
-    // var url = 'https://corsproxy.io/?' + encodeURIComponent(scholarUrl);
     var url = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(scholarUrl);
     
     fetch(url)
