@@ -41,15 +41,13 @@
 
 # ############################################################################################
 
-- title: '**Chatterjee A**, Ghosh, A, Ghosh S, “**The Art of Optimizing T-Depth for Quantum Error Correction in Large-Scale Quantum Computing**”'
+- title: '**Chatterjee A**, Ghosh, A, Ghosh S, “**The Art of Optimizing T-Depth for Quantum Error Correction in Large-Scale Quantum Computing**”, In 2026 27th International Symposium on Quality Electronic Design (ISQED) (pp. 1-7).'
   venues:
-    - name: 'arXiv 2026'
-      type: 'arxiv'
     - name: 'ISQED 2026'
       type: 'conference'
   links:
     - label: 'Read Paper'
-      url: 'https://arxiv.org/abs/2503.06045'
+      url: 'https://ieeexplore.ieee.org/document/11534776'
 
 # ############################################################################################
 
